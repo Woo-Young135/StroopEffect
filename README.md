@@ -1,2 +1,2 @@
-# StroopEffect
-Test of Stroop Effect
+# Stroop Effect
+Analyzing Stroop Effect
